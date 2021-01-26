@@ -12,12 +12,12 @@
 
  Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ROMI-AFRZL&show_icons=true&theme=radical)<br>
-## Reporstory
+## Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=Cfb&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL/Cfb)<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=UNIS3X&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL/UNIS3X)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=pro-cracker&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL/pro-cracker)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=NBF&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL/NBF)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=hack&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL/hack)</br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=romcr4ck&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL/romcr4ck)<br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=prembf&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL/prembf)<br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=fbcracker&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL/fbcracker)</br>
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROMI-AFRZL&langs_count=8&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL)<br><br>
 
