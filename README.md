@@ -20,4 +20,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=prembf&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL/prembf)<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ROMI-AFRZL&repo=fbcracker&show_icons=true&theme=radical)](https://github.com/ROMI-AFRZL/fbcracker)</br>
 #
+#### contact me
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)
+
 <img src="https://github.com/ROMI-AFRZL/ROMI-AFRZL/blob/main/Ngentod/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
