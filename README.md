@@ -1,13 +1,13 @@
 <h1 align="center"> Welcome to my github </h1>
 <p align="center">
-     <i> <b> ANONYMOUS </b> </i>
+     <i> <b> •●• </b> </i>
 </p>
 
 <p align="center">
 <img src="https://giffiles.alphacoders.com/120/120248.gif">
 </p>
 <p align="center">
-<i> <b> I FUCK YOUR SYSTEM  </b> </i>
+<i> <b> LOL ! </b> </i>
 </p
 
 #
