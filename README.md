@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my github </h1>
 <p align="center">
-     <i> <b> •●• </b> </i>
+•●•
 </p>
 
 <p align="center">
